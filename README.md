@@ -1,7 +1,9 @@
 # React.JS-Movies-WebSite!
 
 You can watch any movie you like,
-Frontend of the website
+
+Frontend of the website,
+
 ScreenShots of the website
 
 Main Screen
